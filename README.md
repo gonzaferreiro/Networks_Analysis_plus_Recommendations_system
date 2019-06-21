@@ -16,7 +16,7 @@ Some of the tasks done in this section include:
 * Analyzing the giant component
 * Doing some hierarchical clustering 
 
-**What we found out of all this?**
+** What we found out of all this?**
 
 * Our datasets were strongly connected. Therefore the similarity analysis and the technique used for predicting in our system were going to be very important factors to make good recommendations. At first sight the users dataset seemed to be more tightly connected than the movies dataset, being that a good insight to maybe start thinking about working based on item-item similarity.
 
