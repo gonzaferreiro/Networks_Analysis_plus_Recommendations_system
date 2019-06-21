@@ -6,7 +6,7 @@ This project explores the classic MovieLens dataset, first from a networks persp
 
 ## What you'll find in the networks section
 
-As the MovieLens folder contains a very complete datasets about both users and movies, I though it could be a good idea to go through part of our EDA treating our data as networks. Being a relatively big dataset, the networks created resulted hard to visualize, but the analysis goes anyway through several touch points that allowed us to arrive to some conclusions.
+As the MovieLens folder contains very complete datasets about both users and movies, I though it could be a good idea to go through part of our EDA treating our data as networks. Being a relatively big dataset, the networks created resulted hard to visualize, but the analysis goes anyway through several touch points that allowed us to arrive to some conclusions.
 
 Some of the tasks done in this section include:
 
