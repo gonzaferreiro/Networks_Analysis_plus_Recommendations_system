@@ -16,7 +16,7 @@ Some of the tasks done in this section include:
 * Analyzing the giant component
 * Doing some hierarchical clustering 
 
-** What we found out of all this?**
+What we found out of all this?
 
 * Our datasets were strongly connected. Therefore the similarity analysis and the technique used for predicting in our system were going to be very important factors to make good recommendations. At first sight the users dataset seemed to be more tightly connected than the movies dataset, being that a good insight to maybe start thinking about working based on item-item similarity.
 
@@ -36,3 +36,14 @@ Some of the techniques used in this section are:
 Finally the evalutions includes some neat functions to find the top n predictions for an user with the movies detail, as well as one function to calculate the Precision and Recall out of the 𝑘 top-ranked items.
 
 This last part also includes some theoretical explination before the code about how some of the concepts work, and also a very detailed step by step for each one of the metrics.
+
+## BONUS TRACK: Recommendations Systems tutorial guide
+
+As a bonus track, this repository also includes a [full tutorial guide](./Introduction_to_recommendations_systems.pdf) with all the concepts applied in this project about Recommendations Systems.
+
+This guide is composed of information from several sources:
+* https://www.analyticsvidhya.com/
+* https://hackernoon.com/
+* https://stackoverflow.com/
+* https://sundog-education.com/
+* Class material from General Assembly Data Science Immersive Course
