@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project explores the classic MovieLens dataset, first from a networks perspective, analyzing the relationship between users and movies. Later, in the main part of the project, we built and evaluate a Recommendation System using classic methods.
+This project explores the classic MovieLens dataset, first from a networks perspective, analyzing the relationship between users and movies. Later, in the main part of the project, we built and evaluate several Recommendations System using different algorithms.
 
 ## What you'll find in the networks section
 
