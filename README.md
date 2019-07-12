@@ -46,4 +46,4 @@ This guide is composed of information from several sources:
 * https://hackernoon.com/
 * https://stackoverflow.com/
 * https://sundog-education.com/
-* Class material from General Assembly Data Science Immersive Course
+* [Class material from General Assembly Data Science Immersive Course](./https://generalassemb.ly/education/data-science-immersive)
